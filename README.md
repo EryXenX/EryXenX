@@ -72,16 +72,6 @@
 
 ---
 
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=EryXenX&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1" />
-
-</div>
-
----
-
 ## 📈 Activity Graph
 
 <div align="center">
@@ -97,23 +87,23 @@
 <div align="center">
 
 <a href="https://eryxenx-ae7y.onrender.com">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-eryxenx.onrender.com-00ffe0?style=for-the-badge&labelColor=0d0d0d" />
+  <img src="https://img.shields.io/badge/Portfolio-00ffe0?style=for-the-badge&logo=firefox&logoColor=black&labelColor=00ffe0" />
 </a>
 &nbsp;
 <a href="https://github.com/EryXenX">
-  <img src="https://img.shields.io/badge/GitHub-EryXenX-7b2fff?style=for-the-badge&logo=github&labelColor=0d0d0d" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 &nbsp;
 <a href="mailto:devakashcodes@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-devakashcodes-EA4335?style=for-the-badge&logo=gmail&labelColor=0d0d0d" />
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://www.facebook.com/ExxDAaksH">
-  <img src="https://img.shields.io/badge/Facebook-ExxDAaksH-1877F2?style=for-the-badge&logo=facebook&labelColor=0d0d0d" />
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://www.instagram.com/akashxx404">
-  <img src="https://img.shields.io/badge/Instagram-akashxx404-E4405F?style=for-the-badge&logo=instagram&labelColor=0d0d0d" />
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 <br/><br/>
