@@ -3,6 +3,10 @@
 <!-- Animated Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:00ffe0,100:7b2fff&height=200&section=header&text=EryXenX&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Building%20the%20future%2C%20one%20commit%20at%20a%20time&descAlignY=60&descSize=18&animation=fadeIn" />
 
+<br/>
+<img src="https://i.imgur.com/dItkUa8.jpeg" width="120" height="120" style="border-radius:50%" />
+<br/><br/>
+
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00FFE0&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Web+App+Builder+%F0%9F%94%A5;Open+Source+Enthusiast+%F0%9F%8C%9F;From+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9+with+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
@@ -20,22 +24,6 @@
 <img src="https://img.shields.io/badge/STATUS-BUILDING%20COOL%20STUFF-00ffe0?style=for-the-badge&labelColor=0d0d0d" />
 
 </div>
-
----
-
-## 👾 Who Am I?
-
-```js
-const EryXenX = {
-  name     : "Akash",
-  brand    : "EryXenX",
-  location : "🇧🇩 Bangladesh",
-  role     : "Full-Stack Developer",
-  interests: ["Web Apps", "Open Source", "Game Modding"],
-  contact  : "eryxenx.onrender.com",
-  motto    : "Ship fast. Break things. Fix them better. 🔥"
-};
-```
 
 ---
 
@@ -118,6 +106,14 @@ const EryXenX = {
 &nbsp;
 <a href="mailto:devakashcodes@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-devakashcodes-EA4335?style=for-the-badge&logo=gmail&labelColor=0d0d0d" />
+</a>
+&nbsp;
+<a href="https://www.facebook.com/ExxDAaksH">
+  <img src="https://img.shields.io/badge/Facebook-ExxDAaksH-1877F2?style=for-the-badge&logo=facebook&labelColor=0d0d0d" />
+</a>
+&nbsp;
+<a href="https://www.instagram.com/akashxx404">
+  <img src="https://img.shields.io/badge/Instagram-akashxx404-E4405F?style=for-the-badge&logo=instagram&labelColor=0d0d0d" />
 </a>
 
 <br/><br/>
