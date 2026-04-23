@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:00ffe0,100:7b2fff&height=200&section=header&text=EryXenX&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Building%20the%20future%2C%20one%20commit%20at%20a%20time&descAlignY=60&descSize=18&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e00ff,50:00c8ff,100:00ffe0&height=200&section=header&text=EryXenX&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Building%20the%20future%2C%20one%20commit%20at%20a%20time&descAlignY=60&descSize=18&animation=fadeIn" />
 
 <br/>
 <img src="https://i.imgur.com/dItkUa8.jpeg" width="120" height="120" style="border-radius:50%" />
@@ -61,12 +61,12 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=EryXenX&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=00ffe0&icon_color=7b2fff&text_color=ffffff&border_radius=10" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=EryXenX&theme=radical&hide_border=true&background=0d0d0d&ring=00ffe0&fire=7b2fff&currStreakLabel=00ffe0&border_radius=10" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=EryXenX&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=EryXenX&theme=tokyonight&hide_border=true&border_radius=10" />
 
 <br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EryXenX&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=00ffe0&text_color=ffffff&border_radius=10" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EryXenX&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
 
 </div>
 
@@ -76,7 +76,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=EryXenX&bg_color=0d0d0d&color=00ffe0&line=7b2fff&point=ffffff&area=true&hide_border=true&border_radius=10" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=EryXenX&theme=tokyo-night&hide_border=true&border_radius=10" />
 
 </div>
 
@@ -121,7 +121,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2fff,50:00ffe0,100:0d0d0d&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffe0,50:00c8ff,100:6e00ff&height=120&section=footer" />
 
 **© EryXenX — Made in 🇧🇩 Bangladesh**
 
