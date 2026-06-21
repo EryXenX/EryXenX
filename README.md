@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e00ff,50:00c8ff,100:00ffe0&height=200&section=header&text=EryXenX&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Building%20the%20future%2C%20one%20commit%20at%20a%20time&descAlignY=60&descSize=18&animation=fadeIn" />
 
 <br/>
-<img src="https://i.imgur.com/dItkUa8.jpeg" width="120" height="120" style="border-radius:50%" />
+<img src="https://i.ibb.co/TBtzWs0s/d554dcdbe4c6.jpg" width="120" height="120" style="border-radius:50%" />
 <br/><br/>
 
 <!-- Typing Animation -->
