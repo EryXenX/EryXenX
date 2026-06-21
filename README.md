@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e00ff,50:00c8ff,100:00ffe0&height=200&section=header&text=EryXenX&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Building%20the%20future%2C%20one%20commit%20at%20a%20time&descAlignY=60&descSize=18&animation=fadeIn" />
 
 <br/>
-<img src="https://i.ibb.co/TBtzWs0s/d554dcdbe4c6.jpg" width="200" height="200" style="border-radius:50%" />
+<img src="https://i.ibb.co/TBtzWs0s/d554dcdbe4c6.jpg" width="180" height="180" style="border-radius:50%;border:3px solid #00ffe0" />
 <br/><br/>
 
 <!-- Typing Animation -->
@@ -12,10 +12,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00FFE0&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Web+App+Builder+%F0%9F%94%A5;Open+Source+Enthusiast+%F0%9F%8C%9F;From+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9+with+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
 </a>
 
-<br/><br/>
+<br/>
 
 <!-- Profile Views & Social Badges -->
-<img src="https://komarev.com/ghpvc/?username=EryXenX&style=for-the-badge&color=00ffe0&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=EryXenX&style=for-the-badge&color=00ffe0&label=PROFILE+VIEWS&labelColor=0d0d0d" />
 &nbsp;
 <a href="https://github.com/EryXenX?tab=followers">
   <img src="https://img.shields.io/github/followers/EryXenX?style=for-the-badge&color=7b2fff&labelColor=0d0d0d&label=FOLLOWERS" />
@@ -25,7 +25,7 @@
 
 </div>
 
----
+<br/>
 
 ## 🛠️ Tech Stack
 
@@ -48,6 +48,7 @@
 
 ### ☁️ Cloud & Tools
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -55,32 +56,48 @@
 
 </div>
 
----
+<br/>
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=EryXenX&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=EryXenX&theme=tokyonight&hide_border=true&border_radius=10" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=EryXenX&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0d1117" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=EryXenX&show_icons=true&theme=default&hide_border=true&border_radius=10&bg_color=ffffff" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=EryXenX&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=EryXenX&theme=tokyonight&hide_border=true&border_radius=10&background=0d1117" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=EryXenX&theme=default&hide_border=true&border_radius=10&background=ffffff" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=EryXenX&theme=tokyonight&hide_border=true&border_radius=10" alt="Streak Stats" />
+</picture>
 
 <br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EryXenX&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=EryXenX&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0d1117" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=EryXenX&layout=compact&theme=default&hide_border=true&border_radius=10&bg_color=ffffff" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EryXenX&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" />
+</picture>
 
 </div>
 
----
+<br/>
 
 ## 📈 Activity Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=EryXenX&theme=tokyo-night&hide_border=true&border_radius=10" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=EryXenX&theme=tokyo-night&hide_border=true&border_radius=10&bg_color=0d1117" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=EryXenX&theme=minimal&hide_border=true&border_radius=10&bg_color=ffffff" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EryXenX&theme=tokyo-night&hide_border=true&border_radius=10" alt="Activity Graph" />
+</picture>
 
 </div>
 
----
+<br/>
 
 ## 🌐 Connect With Me
 
@@ -117,7 +134,7 @@
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
