@@ -31,6 +31,26 @@
 
 ---
 
+## 🌐 Website
+
+<div align="center">
+
+<a href="https://eryxenx.agi.bd">
+  <img src="https://img.shields.io/badge/Website-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://eryxenx.agi.bd/blog">
+  <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=hashnode&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://eryxenx.agi.bd/docs">
+  <img src="https://img.shields.io/badge/API_Docs-4CAF50?style=for-the-badge&logo=swagger&logoColor=white" />
+</a>
+
+</div>
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -110,7 +130,7 @@
 
 <div align="center">
 
-<a href="https://eryxenx-ae7y.onrender.com">
+<a href="https://eryxenx.agi.bd">
   <img src="https://img.shields.io/badge/Portfolio-1F6FEB?style=for-the-badge&logo=firefox&logoColor=white" />
 </a>
 &nbsp;
