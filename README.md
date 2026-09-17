@@ -39,11 +39,7 @@
   <img src="https://img.shields.io/badge/Website-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://eryxenx.agi.bd/blog">
-  <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=hashnode&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://eryxenx.agi.bd/docs">
+<a href="https://eryxenx.agi.bd/apidocs">
   <img src="https://img.shields.io/badge/API_Docs-4CAF50?style=for-the-badge&logo=swagger&logoColor=white" />
 </a>
 
