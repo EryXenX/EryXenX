@@ -7,7 +7,7 @@
 </picture>
 
 <br/>
-<img src="https://i.ibb.co/TBtzWs0s/d554dcdbe4c6.jpg" width="180" height="180" style="border-radius:50%;border:4px solid #2c5364" />
+<img src="https://i.ibb.co.com/qYbxJ9qM/Picsart-26-10-23-10-45-49-535.jpg" width="180" height="180" style="border-radius:50%;border:4px solid #2c5364" />
 <br/><br/>
 
 <a href="https://git.io/typing-svg">
